@@ -1,2 +1,2 @@
 # Phishing Classification
-This project meant for a binary classification task for (Spam/Not Spam) emails.
+This project meant for a binary classification of urls, (Phishing/Not Phishing).
